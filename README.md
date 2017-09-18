@@ -1,3 +1,5 @@
-# Bienvenida
-Facebook bienvenida
-no se que hacer
+<context>
+  <input pattern="(hola|buenas) *">
+    <output value="Hola!"/>
+  </input>
+</context>
