@@ -1,0 +1,5 @@
+<context>
+  <input pattern="(Saludos) *">
+    <output value="Hola!"/>
+  </input>
+</context>
